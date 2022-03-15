@@ -1,0 +1,16 @@
+.navItem {
+  display: flex;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.linkitem {
+  text-decoration: none;
+  border: 1px solid lightgray;
+  padding: 5px 10px;
+}
+.linkitem:hover {
+  background-color: lightsteelblue;
+  cursor: pointer;
+}
